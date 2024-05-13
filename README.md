@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaDolui Full Stack web Developer
+- 👋 Hi, I’m @AdityaDolui Front End web Developer
 - 👀 I’m currently employeed in @Infosys
 - 🌱 I’m currently working in MERN projects
 - 💞️ I’m looking for great future
