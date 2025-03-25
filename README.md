@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaDolui Front End web Developer
+- 👋 Hi, I’m @AdityaDolui FullStack (Java+React) web Developer
 - 👀 I’m currently employeed in @Infosys
 - 🌱 I’m currently working in Java Sprinboot Microservice projects
 - 💞️ I’m looking for great future
